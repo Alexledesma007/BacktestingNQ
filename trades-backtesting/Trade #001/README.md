@@ -14,9 +14,3 @@
 | **Beneficio** | +2.4%       |  
 | **Riesgo**    | 0.5%        |  
 | **RR**       | 4.8:1       |  
-
-```python
-# Código de entrada (opcional)
-if rsi < 35 and price > sma20:
-    enter_trade()
-```
