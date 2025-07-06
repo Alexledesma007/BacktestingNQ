@@ -27,7 +27,3 @@
 
 ## 💡 Reflexión Final
 *"El mercado recompensa la disciplina en zonas clave más que la frecuencia operativa"*
-
----
-
-🔍 **Ver análisis completo**: [Estrategia.md](estrategia.md) | [Datos brutos](/data/trade_009.csv)
