@@ -2,6 +2,8 @@
 
 # 📊 Backtesting al Nasdaq 100 - Trade #9
 
+
+
 !\[Gráfico del Trade #9](trade9.png)
 
 # 
