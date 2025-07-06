@@ -1,4 +1,4 @@
-# 1 - Trade #1
+#1 - Trade #1
 
 # **Análisis Trade 20250102 - Estrategia Lunes**  
 ![Gráfico del trade](trade9.png)  

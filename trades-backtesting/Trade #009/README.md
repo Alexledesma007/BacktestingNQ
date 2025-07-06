@@ -1,46 +1,34 @@
-# 📅 11/05/2025
-
-# 📊 Backtesting al Nasdaq 100 - Trade #9
+\#9 - Trade #9
 
 
 
-!\[Gráfico del Trade #9](trade9.png)
+\# \*\*Análisis Trade 20250102 - Estrategia xxx\*\*  
 
-# 
+!\[Gráfico del trade](trade9.png)  
 
-# La tendencia alcista empezó a mostrar cierta debilidad 📉 dejándome un bloque OFF H4 pendiente de baja probabilidad y, como se puede ver en la gráfica 📊, el mercado continuó al alza 📈 sin bajar a buscar mi bloque, rompiendo lo que hasta ahora era un rango bajista ⚠️. A partir de este momento se activan las compras 💰.
 
-# 
 
-# Ya sabía que era de baja probabilidad, así que no pasa nada... ¡así es el mercado! 🤷‍♂️
+\## \*\*🔍 Detalles\*\*  
 
-# 
+\- \*\*Hora:\*\* 14:30 UTC-4  
 
-# 🎯 Riesgo: 53 PTS
+\- \*\*Activo:\*\* NQ Futures  
 
-# 🎯 Target: 100 PTS
+\- \*\*Duración:\*\* 45 minutos  
 
-# 📅 Fecha del trade: 06/06/2019
 
-# ⚖️ Resultado: Operación no ejecutada
 
-# 
+\## \*\*📊 Resultados\*\*  
 
-# 📌 Lección aprendida:
+| Métrica       | Valor       |  
 
-# "Este escenario confirma que no todas las oportunidades son oportunidades reales. Cuando el mercado ignora un bloque OFF de baja probabilidad y rompe estructuras clave, es señal clara para quedarse fuera y evitar operaciones forzadas. La paciencia es parte de la estrategia."
+|--------------|-------------|  
 
-# 
+| \*\*Beneficio\*\* | +2.4%       |  
 
-# \#Trading #Nasdaq100 #PriceAction
+| \*\*Riesgo\*\*    | 0.5%        |  
 
-# \#BloqueOFF #TendenciaAlcista
+| \*\*RR\*\*       | 4.8:1       |  
 
-# \#GestiónDeRiesgo #MercadoImpulsivo
 
-# \#OperacionesNoEjecutadas #DisciplinaTrading
-
-# \#SmartMoneyConcepts #AnálisisTécnico
-
-# \#Backtesting #PsicologíaTrading
 
