@@ -1,7 +1,7 @@
 # 1 - Trade #1
 
 # **Análisis Trade 20250102 - Estrategia Lunes**  
-![Gráfico del trade](trade_20250102_Lunes.png)  
+![Gráfico del trade](trade9.png)  
 
 ## **🔍 Detalles**  
 - **Hora:** 14:30 UTC-4  
