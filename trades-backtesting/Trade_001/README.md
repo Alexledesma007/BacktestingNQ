@@ -1,5 +1,5 @@
-📅 Fecha del Trade: 12/01/2000
-📊 Trade #001 - Nasdaq 100 (NQ)
+# 📅 Fecha del Trade: 12/01/2000
+# 📊 Trade #001 - Nasdaq 100 (NQ)
 
 ![Gráfico del Trade](trade_001.png) <!-- Asegúrate que el nombre coincida exactamente -->
 
