@@ -20,17 +20,25 @@ Aquí me enfrenté a una estructura de manipulación debido a una gran lateraliz
 
 #2. Segundo Choch a la baja que también es cancelado para volver a subir los precios. 
 
-#3.  
+#3. Mecha absorbe las ventas para en apariencia continuar con el movimiento alcista
+
+#4. Finalmente luego de lateralizar un buen rato, el mercado reacciona a un FVG H4 (estaba esperando esta reacción para montarme en su continuación), se va al alza y hace BOS. 
+
+#5. El BOS dejó un FVG H4 un poco grande (costoso) pero me permitía colocar mi riesgo de forma aceptable, mercado se va al alza, me da un profit de 106 puntos (en el mercado real ya hubiera puesto trailing stop en los 100 puntos), pero lo dejé correr buscando 150 puntos de profit y se regresó para sacarme en negativo.
+
+BONUS: Hay que destacar también que el mercado no solo estaba lateralizando, sino también estaba creando bajos cada vez más bajos, hay que tener cuidado con estos escenario de manipulación sin dirección clara pero que aparentan ir a favor del contexto general, todo el tiempo estuve consciente de esto, por eso esperé la reacción en FVG H4 para montarme en su continuación porque no iba a entrar en el FVG H4 mientras el mercado iba cayendo en picada, aún así salí en negativo debido a la manipulación.
 
 
 ## 📌 Lecciones Clave
-1. La paciencia en zonas de origen aumenta probabilidad
-2. Los bloques FVG con volumen son altamente confiables
-3. El riesgo controlado permite soportar volatilidad
+
+En estructuras de manipulación con lateralización, solo operar FVG H4 tras confirmación de reacción y BOS.
+
+Tomar ganancias en objetivos intermedios (100 pts) cuando hay bajos más bajos durante lateralización.
+
+Evitar perseguir máximos de profit (150 pts) en mercados volátiles con apariencia direccional engañosa.
+
+Verificar formación de bajos decrecientes durante lateralización como señal de riesgo oculto.
 
 ## 💡 Reflexión Final
-*"El mercado recompensa la disciplina en zonas clave más que la frecuencia operativa"*
 
----
-
-🔍 **Ver análisis completo**: [Estrategia.md](estrategia.md) | [Datos brutos](/data/trade_009.csv)
+"En mercados manipulativos, la toma de ganancias temprana es supervivencia; los FVG H4 solo son válidos con BOS confirmado y conciencia plena de bajos decrecientes.
