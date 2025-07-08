@@ -26,7 +26,7 @@ Aquí me enfrenté a una estructura de manipulación debido a una gran lateraliz
 
 #5. El BOS dejó un FVG H4 un poco grande (costoso) pero me permitía colocar mi riesgo de forma aceptable, mercado se va al alza, me da un profit de 106 puntos (en el mercado real ya hubiera puesto trailing stop en los 100 puntos), pero lo dejé correr buscando 150 puntos de profit y se regresó para sacarme en negativo.
 
-BONUS: Hay que destacar también que el mercado no solo estaba lateralizando, sino también estaba creando bajos cada vez más bajos, hay que tener cuidado con estos escenario de manipulación sin dirección clara pero que aparentan ir a favor del contexto general, todo el tiempo estuve consciente de esto, por eso esperé la reacción en FVG H4 para montarme en su continuación porque no iba a entrar en el FVG H4 mientras el mercado iba cayendo en picada, aún así salí en negativo debido a la manipulación.
+BONUS: Hay que destacar también que el mercado no solo estaba lateralizando, sino también estaba creando bajos cada vez más bajos, hay que tener cuidado con estos escenarios de manipulación sin dirección clara pero que aparentan ir a favor del contexto general, todo el tiempo estuve consciente de esto, por eso esperé la reacción en FVG H4 para montarme en su continuación porque no iba a entrar en el FVG H4 mientras el mercado iba cayendo en picada, aún así salí en negativo debido a la manipulación.
 
 
 ## 📌 Lecciones Clave
