@@ -4,12 +4,11 @@
 ![Gráfico del Trade](trade_004.png) <!-- Asegúrate que el nombre coincida exactamente -->
 
 ## 📈 Detalles de la Operación
-| Parámetro       | Valor               |
+| Parámetro      | Valor               |
 |----------------|---------------------|
-
-| **Riesgo**       | 50 PTS (1.5% capital) |
-| **Beneficio**    | Operación negativa |
-| **Ratio R/R**    | 1:3              |
+| **Riesgo**     | 50 PTS  |
+| **Beneficio**  | Operación negativa |
+| **Ratio R/R**  | 1:3              |
 
 ## 🎯 Análisis Técnico
 
@@ -25,11 +24,4 @@ Validar las tres preguntas esenciales antes de entrar: ¿de dónde viene el prec
 
 ## 💡 Reflexión Final
 
-"La verdadera seguridad operativa está en comprar por encima del 50% del rango y entender el viaje completo del precio: su procedencia, acción y destino"
-
-
-
-
----
-
-🔍 **Ver análisis completo**: [Estrategia.md](estrategia.md) | [Datos brutos](/data/trade_009.csv)
+"La verdadera seguridad operativa está en comprar por encima del 50% del rango y entender el viaje completo del precio: su procedencia, acción y destino".
