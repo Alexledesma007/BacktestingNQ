@@ -27,4 +27,4 @@ Confirmar rupturas de estructura bajista previa (Choch débil con mecha) como se
 Utilizar stops que cubran el bloque para absorber volatilidad en retrocesos
 
 ## 💡 Reflexión Final
-*"La combinación de estructura alcista clara + FVG H4 sobre 50% del rango + stop protector es la trinidad del trading confiable"*---
+*"La combinación de estructura alcista clara + FVG H4 sobre 50% del rango + stop protector es la trinidad del trading confiable"*
