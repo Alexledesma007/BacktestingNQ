@@ -16,7 +16,7 @@
 
 Como se puede ver en la gráfica el mercado me creó un nuevo rango esta vez bajista rompiendo W, dejándome varios bloques de ventas muy difíciles de operar por su gran tamaño (bloques muy caros) y porque la caída fue tan brusca que esperar un trade en el origen de ventas era casi imposible.
 
-Al final decidí seguir extendiendo el rango a la baja hasta que el mercado hizo Choch con cuerpo girando el mercado al alza, este patrón de giro ya descartaba todas las zonas de ventas. así que me posicioné en un FVG H4 de compras encima del Origen H4, fue arriesgado operar este FVG H4 al open porque el mercado podía buscar el Origen más abajo pero confié en la fuerza alcista, aun así debo reconocer que fue bastante arriesgado, por lo tanto si vuelvo a ver un bloque como este en el mercado real, lo mejor que puedo hacer es refinarlo en una temporalidad menor como H1 o M15 para buscar un bloque más económico que se ajuste a mi riesgo en la misma zona.
+Al final decidí seguir extendiendo el rango a la baja hasta que el mercado hizo Choch con cuerpo girando el mercado al alza, este patrón de giro ya descartaba todas las zonas de ventas, así que me posicioné en un FVG H4 de compras encima del Origen H4, fue arriesgado operar este FVG H4 al open porque el mercado podía buscar el Origen más abajo pero confié en la fuerza alcista, aun así debo reconocer que fue bastante arriesgado, por lo tanto si vuelvo a ver un bloque como este en el mercado real, lo mejor que puedo hacer es refinarlo en una temporalidad menor como H1 o M15 para buscar un bloque más económico que se ajuste a mi riesgo en la misma zona.
 
 ## 📌 Lecciones Clave
 
