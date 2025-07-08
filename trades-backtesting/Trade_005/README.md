@@ -27,4 +27,6 @@ Operar FVG H4 solo con confirmación de giro alcista (Choch con cuerpo) que inva
 Aceptar el riesgo controlado al operar FVG cerca del Origen cuando hay fuerza direccional clara.
 
 ## 💡 Reflexión Final
-"Los bloques caros requieren refinamiento en menores temporalidades; un Choch de giro invalida zonas anteriores y justifica FVG arriesgados con gestión controlada"---
+"Los bloques caros requieren refinamiento en menores temporalidades; un Choch de giro invalida zonas anteriores y justifica FVG arriesgados con gestión controlada"
+
+---
