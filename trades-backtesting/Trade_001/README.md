@@ -3,11 +3,12 @@
 
 ![Gráfico del Trade](trade_001.png) <!-- Asegúrate que el nombre coincida exactamente -->
 
-📈 Detalles de la Operación
-Parámetro	Valor
-Riesgo	50 PTS (1.5% capital)
-Beneficio	operación negativa
-Ratio R/R	1:3
+## 📈 Detalles de la Operación
+| Parámetro       | Valor               |
+|----------------|---------------------|
+| **Riesgo**       | 50 PTS |
+| **Beneficio**    | operación negativa |
+| **Ratio R/R**    | 1:3              |
 
 🎯 Análisis Técnico
 
