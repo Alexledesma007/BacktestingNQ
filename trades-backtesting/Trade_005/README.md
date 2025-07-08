@@ -9,7 +9,7 @@
 | **Zona Entrada** | --- |
 | **Zona Salida**  | --- |
 | **Riesgo**       | 50 PTS |
-| **Beneficio**    | 150 PTS |
+| **Beneficio**    | 150 PTS (Operación exitosa) |
 | **Ratio R/R**    | 1:3   |
 
 ## 🎯 Análisis Técnico
