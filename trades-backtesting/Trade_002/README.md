@@ -18,7 +18,7 @@ En operaciones de continuación, no esperar únicamente en el Origen H4 si el pr
 
 Confirmar tendencia alcista con presencia de Choch, BOS y nuevo BOS (continuación)
 
-Los FVG dentro de estructura BOS son zonas de reacción válidas para continuación
+Los FVG dentro de estructura BOS son zonas de reacción válidas para continuación.
 
 #💡 Reflexión Final
 "La estructura completa (Choch y BOS) define la continuación; esperar solo en Origen hace perder reacciones en FVG dentro del BOS"
